@@ -1,0 +1,21 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.help-heading{
+    font-size: 50px;
+}
+.help-parent{
+    text-align: center;
+    color: white;
+    padding-top: 180px;
+}
+.help-section{
+    background-image: url(images/donation13.jpg);
+    background-size:cover;
+    height:500px;
+ 
+  
+    background-repeat: no-repeat;
+}
