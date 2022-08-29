@@ -19,3 +19,155 @@
   
     background-repeat: no-repeat;
 }
+.donate-align{
+    text-align: center;
+    margin-top: 80px;
+}
+.donate-heading{
+    font-size: 50px;
+    font-weight: 800px;
+}
+.donate-paragraph{
+    color:#707070;
+    margin-top: 17px;
+
+}
+.donate-amount{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 250px;
+}
+.amount-box{
+    
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    margin-left: 30px;
+    color: #9B9B9B;
+    padding: 30px 20px;
+}
+.amount-red{
+    color: red;
+    border-radius: 5px;
+    margin-left: 30px;
+    padding: 30px 20px;
+    background-color: #FFEEEE;
+    border: 3px solid red;
+}
+.input-align{
+    text-align: center;
+    margin-top: 35px;
+    height: 200px;
+}
+.input-align input{
+    border: none;
+}
+hr{
+    border: 1px solid black;
+    width: 750px;
+    margin-left: 250px;
+    margin-top: 10px;
+
+}
+.donate-button{
+    margin-top: 30px;
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #FF5959;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-right: 50px;
+}
+.donate-plan{
+    text-align: center;
+    margin-top: 40px;
+}
+.planning-section{
+    height: 550px;
+}
+.basic-need{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.family-food{
+    margin-left: 50px;
+    background-color:#EEF6F7 ;
+    padding-top: 80px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 70px;
+    text-align: left;
+    border-radius: 5px;
+}
+.family-shelter{
+    margin-left: 20px;
+    background-color: #FFEFEF;
+    padding-top: 80px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.child-education{
+    margin-left: 20px;
+    background-color: #FFF4D6;
+    padding-top: 80px;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: left;
+    border-radius: 5px;
+}
+.social-address{
+    display: flex;
+    margin-left: 338px;
+    margin-top: 60px;
+    background-color: #FFF4D6;
+    width: 600px;
+    height: 150px;
+}
+.email-design{
+    background-color: #D9D9D9;
+    border: none;
+    padding: 10px 20px;
+    border-top-left-radius: 5px;
+}
+.subscribe-button{
+    padding: 10px 20px;
+    font-size: 12px;
+    background-color: #FF5959;
+    border: none;
+   border-top-right-radius: 5px;
+    color: white;
+
+}
+.social-media{
+    height: 400px;
+}
+.footer-design{
+    background-color: black;
+    height: 150px;
+    text-align: center;
+}
+.footer-heading{
+    font-family: 'Lobster', cursive;
+    color: red;
+    font-size: 50px;
+    font-weight: 700px;
+    padding-top: 40px;
+}
+.footer-design p{
+    color: white;
+}
+.input-margin{
+    padding-top: 60px;
+    padding-left: 150px;
+}
+.button-margin{
+    padding-top: 60px;
+    padding-left: -1px;
+}
+    
+
+
+
